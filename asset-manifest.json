@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.94739f5e.chunk.css",
-    "main.js": "./static/js/main.7dadb549.chunk.js",
-    "main.js.map": "./static/js/main.7dadb549.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a31a8b1a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a31a8b1a.js.map",
-    "static/css/2.25dc03cb.chunk.css": "./static/css/2.25dc03cb.chunk.css",
-    "static/js/2.b127ab5d.chunk.js": "./static/js/2.b127ab5d.chunk.js",
-    "static/js/2.b127ab5d.chunk.js.map": "./static/js/2.b127ab5d.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.25dc03cb.chunk.css.map": "./static/css/2.25dc03cb.chunk.css.map",
-    "static/css/main.94739f5e.chunk.css.map": "./static/css/main.94739f5e.chunk.css.map",
-    "static/js/2.b127ab5d.chunk.js.LICENSE.txt": "./static/js/2.b127ab5d.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "./static/media/boxicons.cbd149c5.ttf",
-    "static/media/cinema.d1581e9b.png": "./static/media/cinema.d1581e9b.png",
-    "static/media/footer-bg.36c42c3d.jpg": "./static/media/footer-bg.36c42c3d.jpg"
+    "main.css": "/Huuvandev98/cinema-movie/static/css/main.507c4f0f.chunk.css",
+    "main.js": "/Huuvandev98/cinema-movie/static/js/main.7dadb549.chunk.js",
+    "main.js.map": "/Huuvandev98/cinema-movie/static/js/main.7dadb549.chunk.js.map",
+    "runtime-main.js": "/Huuvandev98/cinema-movie/static/js/runtime-main.46227caa.js",
+    "runtime-main.js.map": "/Huuvandev98/cinema-movie/static/js/runtime-main.46227caa.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/Huuvandev98/cinema-movie/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.b127ab5d.chunk.js": "/Huuvandev98/cinema-movie/static/js/2.b127ab5d.chunk.js",
+    "static/js/2.b127ab5d.chunk.js.map": "/Huuvandev98/cinema-movie/static/js/2.b127ab5d.chunk.js.map",
+    "index.html": "/Huuvandev98/cinema-movie/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/Huuvandev98/cinema-movie/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.507c4f0f.chunk.css.map": "/Huuvandev98/cinema-movie/static/css/main.507c4f0f.chunk.css.map",
+    "static/js/2.b127ab5d.chunk.js.LICENSE.txt": "/Huuvandev98/cinema-movie/static/js/2.b127ab5d.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/Huuvandev98/cinema-movie/static/media/boxicons.cbd149c5.ttf",
+    "static/media/cinema.d1581e9b.png": "/Huuvandev98/cinema-movie/static/media/cinema.d1581e9b.png",
+    "static/media/footer-bg.36c42c3d.jpg": "/Huuvandev98/cinema-movie/static/media/footer-bg.36c42c3d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a31a8b1a.js",
+    "static/js/runtime-main.46227caa.js",
     "static/css/2.25dc03cb.chunk.css",
     "static/js/2.b127ab5d.chunk.js",
-    "static/css/main.94739f5e.chunk.css",
+    "static/css/main.507c4f0f.chunk.css",
     "static/js/main.7dadb549.chunk.js"
   ]
 }
